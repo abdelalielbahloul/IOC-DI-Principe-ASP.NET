@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IOC_DI_Principe
+namespace IOC_DI_Principe.DAO
 {
     class DaoIpml : IDao
     {
